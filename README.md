@@ -17,7 +17,7 @@ Analog sequencer
   
   So you can have this for arround ~30€ so pretty cheap. Have fun to build it!
   
-  Here is the schem (Yeah you should zoom it x3):
-  ![](schematic.png)
+ Here is the schem (Yeah you should zoom it x3):
+  <img src="schematic.png">
   
   I also put the KiCAD .sch file so if you want to make your own, go on!
