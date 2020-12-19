@@ -16,3 +16,8 @@ Analog sequencer
   - Switches/buttons 5€
   
   So you can have this for arround ~30€ so pretty cheap. Have fun to build it!
+  
+  Here is the schem (Yeah you should zoom it x3):
+  ![](schematic.png)
+  
+  I also put the KiCAD .sch file so if you want to make your own, go on!
